@@ -1,9 +1,3 @@
-# COMP2110 Portal - Starter
-
-This is the starter repository for the COMP2110 Portal front end assignment 2023. You are
-expected to customise this README file to describe your own project.  You may delete or modify
-any or all of the current contents.
-
 ## Installation
 
 The project has no external dependencies, it uses Lit via a CDN load directly into
